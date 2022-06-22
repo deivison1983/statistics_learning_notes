@@ -1,6 +1,6 @@
 # Notas de estudo de estatística ⚠️ em andamento ⚠️
 
-<p><img src="imagens_read/livro_2.png"></p>
+<p><img height="400px" src="imagens_read/livro.jpg"></p>
 
 ## Objetivo das notas
 <p>Estas notas fazem parte dos meus estudos sobre o livro Estatística Prática para Cientistas de Dados 1ª edição de Peter Bruce & Andrew Bruce. 
