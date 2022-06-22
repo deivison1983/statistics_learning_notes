@@ -58,3 +58,17 @@ Ressalta-se que as notas consistem em exemplos explorados com as ferramentas do 
     
   </tbody>
 </table>
+
+
+### Autor
+
+Deivison Morais. Visite o meu portfólio de projetos [aqui.](https://deivison1983.github.io/portfolio_projetos/)
+
+### Contatos
+
+<div>
+
+  <a href = "https://www.linkedin.com/in/deivisonmorais/"><img src = "https://img.shields.io/badge/-deivisonmorais-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:deivison1983@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+</div>
