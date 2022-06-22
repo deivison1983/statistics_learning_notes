@@ -1,4 +1,5 @@
 # Notas de estudo de estatística ⚠️ em andamento ⚠️
+
 <p><img src="imagens_read/livro_2.png"></p>
 
 ## Objetivo das notas
