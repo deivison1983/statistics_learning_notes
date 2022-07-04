@@ -1,4 +1,4 @@
-# Notas de estudo de estatística ⚠️ em andamento ⚠️
+# Notas de estudo de estatística
 
 <p><img height="400px" src="imagens_read/livro.jpg"></p>
 
