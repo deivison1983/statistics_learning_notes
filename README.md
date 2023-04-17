@@ -69,7 +69,7 @@ Ressalta-se que as notas consistem em exemplos explorados com as ferramentas do 
 
 * Capítulo 3 - [Experimentos estatísticos e teste de significância.](https://github.com/deivison1983/statistics_learning_notes/blob/main/pratical_statistics_for_ds/capitulo_3_experimentos_estatisticos_teste_de_signifficancia_por_v1.ipynb)
 
-### Autor
+## Autor
 
 Deivison Morais. Visite o meu portfólio de projetos [aqui.](https://deivison1983.github.io/portfolio_projetos/)
 
