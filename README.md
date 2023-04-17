@@ -61,6 +61,14 @@ Ressalta-se que as notas consistem em exemplos explorados com as ferramentas do 
 </table>
 
 
+## Notebooks dos capítulos
+
+* Capítulo 1 - [Análise exploratória de dados.](https://github.com/deivison1983/statistics_learning_notes/blob/main/pratical_statistics_for_ds/capitulo_1_analise_exploratoria_de_dados_por_v1.ipynb)
+
+* Capítulo 2 - [Distribuições de dados e amostras.](https://github.com/deivison1983/statistics_learning_notes/blob/main/pratical_statistics_for_ds/capitulo_2_distribuicoes_de_dados_e_amostras_por_v1.ipynb)
+
+* Capítulo 3 - [Experimentos estatísticos e teste de significância.](https://github.com/deivison1983/statistics_learning_notes/blob/main/pratical_statistics_for_ds/capitulo_3_experimentos_estatisticos_teste_de_signifficancia_por_v1.ipynb)
+
 ### Autor
 
 Deivison Morais. Visite o meu portfólio de projetos [aqui.](https://deivison1983.github.io/portfolio_projetos/)
